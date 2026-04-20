@@ -1,7 +1,7 @@
 {
-  "name": "Max-aternos-bot",
+  "name": "aternos-bot",
   "bot-account": {
-    "username": "Myafkbot",
+    "username": "aternosafkbot",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Minecraftsmp-7G1c.aternos.me",
     "port": 44467,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -44,7 +44,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
